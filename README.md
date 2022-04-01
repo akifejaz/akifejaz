@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm pxtrez</h1>
-
-<h3 align="center">A passionate developer from Poland</h3>
-<h4 align="center">Currently learning VueJS</h4>
+<h1 align="center">Hi 👋, Akif Ejaz Here!</h1>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=pxtrez&color=dcc300">
+  <img align="center" src="https://komarev.com/ghpvc/?username=akifejaz&color=dcc300">
 </p>
 
 <h2 align="center">Stats</h2>
