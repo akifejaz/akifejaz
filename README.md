@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi 👋, Akif Ejaz Here!</h1>
 <h3 align="left">A passionate developer from Pakistan</h3>
-I'm student of Computer Engineering, connected and has work experience of both CS and EE field. Personally more attached to Computer Science, and working on AI, Machine Learning, Data Science and Learning About NFT & MetaVerse Now a days ⚡😄.
+I'm student of Computer Engineering, connected and has work experience of both CS and EE field. Personally more attached to Computer Science, and working on AI, Machine Learning, Data Science and Learning About NFT & MetaVerse Now a days ⚡. Contact me. <a href="akif.upwork@gmail.com"> Here !</a> <hr>
 
 <a href="https://github.com/akifejaz">
     <img src="https://komarev.com/ghpvc/?username=akifejaz&style=for-the-badge">
