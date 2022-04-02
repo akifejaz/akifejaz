@@ -24,9 +24,12 @@ I'm student of Computer Engineering, connected and has work experience of both C
 
 <h2 align="center">Profile Stats</h2>
 
+<!-- 
 <a href="https://github.com/anuraghazra/convoychat">
  <img src="https://github-readme-stats.vercel.app/api?username=akifejaz&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.2rem&show_icons=true&theme=radical&hide_rank">
 </a>
+
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akifejaz&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.4rem&layout=compact&show_icons=true&theme=radical">
 </a>
