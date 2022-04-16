@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi 👋, Akif Ejaz Here!</h1>
 <h3 align="left">A passionate developer from Pakistan</h3>
-I'm student of Computer Engineering, connected and has work experience of both CS and EE field. Personally more attached to Computer Science, and working on AI, Machine Learning, Data Science and Learning About NFT & MetaVerse Now a days ⚡. Contact me. <a href="akif.upwork@gmail.com"> Here !</a> <hr>
+I'm student of Computer Engineering, connected and has work experience of both CS and EE field. Personally more attached to Computer Science, and working on AI, Machine Learning, Data Science and Learning About NFT & MetaVerse Now a days ⚡. <hr>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/akifejaz/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akif.upwork@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/akifejaz"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+<hr>
 
 <a href="https://github.com/akifejaz">
     <img src="https://komarev.com/ghpvc/?username=akifejaz&style=for-the-badge">
