@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - Build RISC-V hardware benchmark platform (see [here](https://cloud-v.co/riscv-comparison)) 
 - Write to teach, technical articles on Linux, Systems & AI
 
-<hr>
 <!-- PROFILE VIEW COUNT -->
 <a href="https://github.com/akifejaz">
     <img src="https://komarev.com/ghpvc/?username=akifejaz&style=for-the-badge">
