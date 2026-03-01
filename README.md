@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Akif Ejaz</h1>
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=600&lines=Systems+%26+Firmware+Engineer+%7C+RISC-V+%26+x86;Linux+Kernel+Developer+%7C+Eclipse+Foundation;Building+Open-Source+RISC-V+Ecosystem+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&width=600&lines=Systems+%26+Firmware+Engineer+%7C+RISC-V+%26+x86;Linux+Kernel+Developer;ThreadX+Maintainer+at+Eclipse+Foundation;Building+Open-Source+RISC-V+Ecosystem" alt="Typing SVG" />
 </h3>
 
 - Working on RISC-V Software Enablement
